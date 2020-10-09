@@ -185,7 +185,7 @@ ReactDOM.render(
     (
         <div>
             <Clock/>
-            <Game numRow={4} numCol={4}/>
+            <Game numRow={3} numCol={3}/>
         </div>
         ),
   document.getElementById('root')
